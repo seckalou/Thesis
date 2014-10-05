@@ -1,0 +1,95 @@
+% Chapter 1
+
+\chapter{Introduction} % Main chapter title
+
+\label{Chapter1} % For referencing the chapter elsewhere, use \ref{Chapter1} 
+
+\lhead{Chapter 1. \emph{Introduction}} % This is for the header on each page - perhaps a shortened title
+
+%----------------------------------------------------------------------------------------
+
+\section{Objectives}
+
+\subsection{3D Skin Texture Analysis}
+The first objective of this work is to develop 3D surface texture analysis methods for classifying facial skin condition such as wrinkle, pore and acne. Previous works on computer based skin analysis have mainly focused on 2D texture descriptors with a considerable emphasis on facial wrinkle detection and age classification \cite{H.2001, V.V.2008}. 3D geometrical features have been used in studies on detecting skin cancer \cite{R.2010, J.S.;2012}. But these features are generally extracted from macro structures and do not exploit the skin fine texture.
+
+The 3D surface texture descriptors we propose operate directly on the geometrical structure of the skin at different scales through multi-resolution analysis schemes, thus capturing the skin disruption in the macro scale (acne, wrinkles) as well as in meso and micro scales (fine wrinkles, pores).
+
+The analysis is done on facial skin normal fields. These are acquired using photometric stereo techniques which are proven to be effective for capturing highly detailed skin geometrical properties - down to the level of the pores - in form of surface normal orientations \cite{P.2007, W.2008}. 
+
+%\subsection{3D Skin Texture Synthesis}
+%We also investigate methods of synthesizing 3D surface texture that can be used to simulate these skin conditions. The idea is to extract surface disruptions from affected skin, grow these to desired size and transfer the results to the target skin.
+%
+%The synthesis methods we propose operate also on normal maps which is a novel research trend in skin detail synthesis as most of the existing algorithms operate directly on the mesh \cite{T.2006, Ma.2008}. This has the advantage of not modifying the original mesh while allowing high quality results when combined with bump map rendering techniques.
+
+
+\subsection{Data Collection}\label{intro_data_collection}
+We have collected an extensive dataset consisting of high resolution 3D facial captures of people with variable skin conditions. We were specifically interested in capturing people presenting common facial skin condition like acne, large pores and wrinkle.
+
+We have built, in collaboration with York University, a Lightstage for capturing high resolution facial 3D scans along with high quality reflectance data. The Lightstage is a dome of 1.51 meters diameter with 41 high power white LEDs uniformly distributed on the surface. The LEDs produce a certain number of different lighting pattern while two SLR cameras capture the reflectance responses in separated diffuse and specular channels. These reflectance responses under different lighting conditions are then used to compute high resolution normal fields in different channels. Five additional SLR cameras capture multi-view image for mesh generation. 
+
+%----------------------------------------------------------------------------------------
+
+\section{Motivations}
+The main motivation of this work is to evaluate and discuss the value added by introducing 3D geometrical properties on rough surface texture analysis, and more particularly on human facial skin.
+
+In general, surface texture can be defined as the structural variation in appearance of the surface due to its reflectance or 3D geometrical properties. For long-time the 3D geometrical aspect of texture has been neglected in computer vision, posing texture characterisation as a 2D problem. Whereas it is obvious that surfaces that involve variational relief, like wrinkly skin, will present different apparent textures on a 2D image according to the imaging conditions (light direction and viewpoint). 
+
+In the late 90s, early 2000s, a new trend aiming to address this three dimensional nature of texture rose. With the leading works of Dana et al \cite{Dana:1999} and Leung \& Malik \cite{Leung:2001}, these approaches extract texture descriptors from a number of images of the same surface under different illumination conditions and viewing directions. These methods have two implications. (1) A considerable number of imaging conditions is required to capture all the fine 3D geometrical properties of the measured surface (for example in the Columbia-Utrecht dataset, 200 different combinations of viewing and
+illumination directions are used \cite{Dana:1999}). (2) The second implication is a direct consequence of the first and concerns the texture characterisation itself: the resulting feature spaces present an extremely high dimensionality which leads to unavoidable further compression and coding with the underlying data loss issues. For example, to model a BTF (Bidirectional Texture Function), which is one of the most accurate and used way of representing illumination/view independent texture, one needs to compute a reduced and parametric representation from dataset that can size up to hundreds of gigabytes. And the accuracy of the resulting model generally depends on the quantization method used.
+
+Recent advances in 3D acquisition have brought the possibility of capturing high resolution scan of rough surface with great accuracy. In fact, surface details that can be captured by photometric stereo techniques are limited only by sensor resolution. We think that these advances should profit 3D surface texture characterisation. 
+
+As surface normals can be represented as a needle-map in a 2D image, one might be tempted to apply directly classic texture analysis methods. But the problem is that, unlike pixel-color, normals do not lie in a linear space (adding two normal vector does not result into a normal unless further normalization is performed). Thus linear operations required by most of the 2D texture analysis method can not be applied directly to normals. 
+
+The methods we introduce in this work produce illumination/view independent texture descriptors, taking into account this non-linearity of the space where lie the normals and operate directly on the surface 3D properties, unlike the BTF-related methods, which do not have a knowledge of the underlying surface geometry. They are intuitively closer to the classic texture representation methods, do not necessarily require heavy data compression and have their accuracy conditioned only by the surface normal acquisition quality.
+ 
+
+%-----------------------------------------------------------------------------------------
+
+\section{Contributions}
+The main contributions of this thesis are covered in chapters x and z. These include:
+
+\begin{itemize}
+\item The collection of an extensive dataset of High resolution facial scans with various skin conditions.
+
+\item A comparative study of 2D and 3D skin texture characterization.
+
+\item The introduction of three novel methods for describing 3D surface texture. 
+
+\end{itemize}
+
+We give here a brief overview of each of these contributions but give a more detailed presentation  in the related chapters (x and y).
+
+\subsection{The dataset}
+As stated in \ref{intro_data_collection}, we have built a Lighstage and used it to collect an extensive dataset consisting of very high resolution scans of human faces presenting various skin condition.
+
+The dataset has been annotated through experiments where human participants are asked to rate skin patches form different parts of the face according to various skin conditions. 
+
+We give in \ref{data_collection} a detailed description of the Lighstage, the collection process and the data processing.
+
+\subsection{Comparative study of 2D vs 3D Skin Texture Analysis}
+To support our primary motivation of improving texture analysis on rough surfaces - particularly facial skin - with 3D geometrical features, we conducted a comparative study \cite{Seck:2014} where classic 2D texture descriptors (LBPs, SCOV, Gabor Wavelet) are extracted from skin albedo and simplistic 3D extensions of these descriptors are extracted from skin normal map. We then evaluated both the 2D and 3D texture descriptors were evaluated in classifying skin wrinkle and large pores. Results showed a significant improvements of the classification when the 3D descriptors are used.
+
+The extension of the 2D texture descriptors to 3D data were based on a rather simple idea. As the normal do not lie in a linear space, we first put the normals in a representation suitable for linear operations, and then apply the classic texture analysis methods on the target space. We have tried two representations. In the first representation, we used the spherical coordinates of the normal and in the second, we computed the geodesic coordinates of the normal by projecting it on the tangent plane.
+
+
+\subsection{3D Surface Texture Methods}
+\begin{itemize}
+\item \textbf{Local Orientation Patterns} This method is based on the notion of Texture Spectrum introduced by Wang and He \cite{WH.1990} in the early nineties and which has inspired widely used texture descriptors such as the LBPs. The main idea here is to define pattern functions that evaluate how the normals vary at each neighbourhood and plug these into a Texture Spectrum framework. We have proposed two pattern functions. The first function applies a threshold to the angles between the central normal and the surrounding ones. The second function compares directly the normals azimuthal and elevation angles.
+
+
+\item \textbf{Multi-scale Geodesic Wavelet}
+\item \textbf{Multi-scale Rotation Fields}
+
+\item \textbf{Multi-scale APDI} In this work, we extend and improve the APDI (Azimuthal Projection Distance Image) descriptors first proposed by Sandbach et al \cite{SZ.2010}. We first reformulate the projection distance computation which was taking into account only the polar angle of the normal. We then introduce a multi-scale scheme with a geodesic-based algorithm for scaling the normal maps through the different levels of the analysis pyramid.
+\end{itemize}
+
+%-----------------------------------------------------------------------------------------
+%
+%\section{Related Studies}
+%
+%%-----------------------------------------------------------------------------------------
+
+
+\section{Thesis Outline}

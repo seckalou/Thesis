@@ -1,0 +1,899 @@
+@comment{x-kbibtex-personnameformatting=<%l><, %f>}
+
+% This file was created with JabRef 2.7b.
+% Encoding: UTF-8
+
+@article{homaloney2007,
+	author = "{Ho Y.X, Maloney L.T. and Landy M.S.}",
+	journal = "Journal of Vision",
+	pages = "1--16",
+	title = "{The effect of viewpoint on perceived visual roughness}",
+	volume = "1",
+	year = "2007"
+}
+
+@mastersthesis{A.2010,
+	author = "Dutta, A.",
+	owner = "alou",
+	school = "University of York",
+	timestamp = "2012.05.11",
+	title = "{Face Shape and Reflectance Acquisition using a Multispectral Light Stage}",
+	url = "http://arxiv.org/pdf/1105.3617v1",
+	year = "2010"
+}
+
+@article{A.W.1985,
+	author = "Kopf, R.J. Friedman;D.S. Rigel; A.W.",
+	journal = "A Cancer Journal for Clinicians",
+	owner = "alou",
+	pages = "130--151",
+	timestamp = "2012.05.07",
+	title = "{Early detection of malignant melanoma: the role of physician examination and self-examination of the skin}",
+	volume = "35",
+	year = "1985"
+}
+
+@article{B.1999,
+	author = "Blanz, A.J. Toolea ; T. Pricea; T. Vetter T.; J.C. Bartletta; B.",
+	journal = "Image and Vision Computing",
+	owner = "alou",
+	pages = "9--19",
+	timestamp = "2012.05.07",
+	title = "{3D shape and 2D surface textures of human faces: the role of ``averages'' in attractiveness and age}",
+	volume = "16",
+	year = "1999"
+}
+
+@article{C.2004,
+	author = "Christodoulou, A. Lanitis; C. Draganova; C.",
+	journal = "IEEE Transactions System Man and Cybernetics",
+	owner = "alou",
+	pages = "621--628",
+	timestamp = "2012.05.08",
+	title = "{Comparing Different Classifiers for Automatic Age Estimation}",
+	volume = "34",
+	year = "2004"
+}
+
+@conference{C.J.1998,
+	author = "Taylor, T.F. Cootes; G.J. Edwards; C.J.",
+	booktitle = "{European Conference on Computer Vision}",
+	owner = "alou",
+	timestamp = "2012.05.08",
+	title = "{Active Appearance Model}",
+	year = "1998"
+}
+
+@conference{D.I.1995,
+	author = "Perrett, D.M. Burt; D.I.",
+	booktitle = "{Biological Sciences}",
+	owner = "alou",
+	timestamp = "2012.05.08",
+	title = "{Perception of Age in Adult Caucasian Male Faces: Computer Graphic Manipulation of Shape and Colour Information}",
+	year = "1995"
+}
+
+@article{D.M.2001,
+	author = "Burt, B.P. Tiddeman; D.I Perrett ; D.M.",
+	journal = "IEEE Computer Graphics and Applications",
+	owner = "alou",
+	pages = "42--50",
+	timestamp = "2012.05.08",
+	title = "{Prototyping and transforming facial textures for perception research}",
+	volume = "21",
+	year = "2001"
+}
+
+@conference{E.2007,
+	author = "Hancock, W. Smith; E.",
+	booktitle = "{Proceedings of the 12th IMA international conference on Mathematics of surfaces XII}",
+	owner = "alou",
+	timestamp = "2012.05.17",
+	title = "{Facial shape-from-shading using principal geodesic analysis and robust statistics}",
+	year = "2007"
+}
+
+@conference{E.;LuebkeD.;EndertonE.2007,
+	author = "Enderton, E. d'Eon; D. Luebke; E.",
+	booktitle = "{Eurographics Symposium on Rendering}",
+	owner = "alou",
+	timestamp = "2012.05.08",
+	title = "{Efficient Rendering of Human Skin}",
+	year = "2007"
+}
+
+@article{F.2010,
+	author = "Huang, Y. Fu; G. Guo ; L.F.",
+	journal = "IEEE Transactions on Pattern Analysis and Machine Intelligence",
+	owner = "alou",
+	pages = "1955--1976",
+	timestamp = "2012.05.01",
+	title = "{Age Synthesis and Estimation via Faces: A Survey}",
+	volume = "32",
+	year = "2010"
+}
+
+@article{F.2002,
+	author = "Cootes, A. Lanitis; C. Taylor; T.F.",
+	journal = "IEEE Trans. Pattern Anal. Mach. Intell.",
+	owner = "alou",
+	pages = "442--455",
+	timestamp = "2012.05.08",
+	title = "{Toward Automatic Simulation of Aging Effects on Face Images}",
+	volume = "24",
+	year = "2002"
+}
+
+@article{G1999,
+	author = "Byatt, G. Rhodes; A. Sumich ; G.",
+	journal = "Psychological Science",
+	owner = "alou",
+	pages = "52--58",
+	timestamp = "2012.05.04",
+	title = "{Are average facial configurations attractive only because of their symmetry}",
+	volume = "10",
+	year = "1999"
+}
+
+@conference{H.2006,
+	author = "Dai, X. Geng; Z. Zhou; Y. Zhang; G. Li; H.",
+	booktitle = "{14th annual ACM international conference on Multimedia}",
+	owner = "alou",
+	timestamp = "2012.05.08",
+	title = "{Learning from facial aging patterns for automatic age estimation}",
+	year = "2006"
+}
+
+@conference{H.2001,
+	author = "Koshimizu, J.Hayashi; H. Yasuoto; H.",
+	booktitle = "{Virtual Systems and Multimedia, 2001. Proceedings. Seventh International Conference}",
+	owner = "alou",
+	timestamp = "2012.05.08",
+	title = "{Method for estimating and modeling age and gender using facial image processing}",
+	year = "2001"
+}
+
+@conference{H.W.;2006,
+	author = "Jensen;, C.Donner; H.W.",
+	booktitle = "{Rendering Techniques}",
+	owner = "alou",
+	timestamp = "2012.05.09",
+	title = "{A Spectral BSSRDF for Shading Human Skin}",
+	year = "2006"
+}
+
+@article{I.2004,
+	author = "Perrett, B.C. Jones; A.C Little. ; D.R. Feinberg ; I.S. Penton-Voak ; B.P.Tiddeman; D.I.",
+	journal = "Evolution and Human Behavior",
+	owner = "alou",
+	pages = "24--30",
+	timestamp = "2012.05.03",
+	title = "{The relationship between shape symmetry and perceived skin condition in male facial attractiveness}",
+	volume = "25",
+	year = "2004"
+}
+
+@article{I.2009,
+	author = "Perret, I.D. Stephen ; M.J.L. Smith ; M.R. Stirrat ; D.I.",
+	journal = "International J Primatol",
+	owner = "alou",
+	pages = "845--857",
+	timestamp = "2012.05.04",
+	title = "{Facial Skin coloration affects perceived health of human faces}",
+	volume = "30",
+	year = "2009"
+}
+
+@article{I.2001,
+	author = "Perret, B.P. Tiddeman ; D.M. Burt ; D.I.",
+	journal = "IEEE Computer Graphics and Applications",
+	owner = "alou",
+	pages = "42--50",
+	timestamp = "2012.05.04",
+	title = "{Prototyping and transforming facial textures for perception research}",
+	volume = "21",
+	year = "2001"
+}
+
+@conference{J.B.1980,
+	author = "Pittenger, J.T. Todd; S.M Leonard.; R.E. Shaw; J.B.",
+	booktitle = "{Scientific American}",
+	owner = "alou",
+	pages = "106--114",
+	timestamp = "2012.05.17",
+	title = "{The perception of human growth}",
+	volume = "242",
+	year = "1980"
+}
+
+@article{J.S.;2012,
+	author = "Koh;, K.M. Choi; S.J. Kim; J. Baek; S. Kang; Y.C. Boo; J.S.",
+	journal = "Skin Research and Technology",
+	owner = "alou",
+	pages = "192--198",
+	timestamp = "2012.05.07",
+	title = "{Cosmetic efficacy evaluation of an anti-acne cream using the 3D image analysis system}",
+	volume = "18",
+	year = "2012"
+}
+
+@article{J.T.1980,
+	author = "Todd, L.S. Mark; J.B. Pittenger; H. Hines; C. Carello; R.E. Shaw; J.T.",
+	journal = "Attention, Perception, \& Psychophysics",
+	owner = "alou",
+	pages = "117--124",
+	timestamp = "2012.05.07",
+	title = "{Wrinkling and head shape as coordinated sources of age-level information}",
+	volume = "27",
+	year = "1980"
+}
+
+@article{Langlois1994,
+	author = "Musselman, J.H. Langlois; L.A. Roggman; L.",
+	journal = "Psychological Scienc",
+	owner = "alou",
+	pages = "214--220",
+	timestamp = "2012.05.04",
+	title = "{What is average and what is not average about attractive faces}",
+	volume = "5",
+	year = "1994"
+}
+
+@article{Lanitis2002,
+	author = "Cootes, A. Lanitis; C.J. Taylor ; T.F.",
+	journal = "Pattern Analysis and Machine Intelligence, IEEE Transactions",
+	owner = "alou",
+	pages = "442--455",
+	timestamp = "2012.05.01",
+	title = "{oward automatic simulation of aging effects on face images}",
+	volume = "24",
+	year = "2002"
+}
+
+@article{LingH.;Soatto2007,
+	author = "Jacobs, H. Ling; S. Soatto ; N. Ramanathan ; D.W.",
+	journal = "Computer Vision, 2007. ICCV 2007. IEEE 11th International Conference",
+	owner = "alou",
+	pages = "1--8",
+	timestamp = "2012.05.01",
+	title = "{A Study of Face Recognition as People Age}",
+	year = "2007"
+}
+
+@conference{M.1996,
+	author = "Koch, R.M. and al",
+	booktitle = "{SIGGRAPH '96 Proceedings of the 23rd annual conference on Computer graphics and interactive techniques}",
+	owner = "alou",
+	timestamp = "2012.05.01",
+	title = "{Simulating facial surgery using finite element models}",
+	year = "1996"
+}
+
+@article{M.2007,
+	author = "Burquest, P.J. Matts; B. Fink; K. Grammer; M.",
+	journal = "Journal Of The American Academy Of Dermatology",
+	owner = "alou",
+	pages = "977--984",
+	timestamp = "2012.05.05",
+	title = "{Color homogeneity and visual perception of age, health, and attractiveness of female facial skin}",
+	volume = "57",
+	year = "2007"
+}
+
+@article{M.R.1991,
+	author = "Cunningham, T.R. Alley ; M.R.",
+	journal = "Psychological Science",
+	owner = "alou",
+	pages = "123--125",
+	timestamp = "2012.05.04",
+	title = "{Average Faces are attractive but very attractive faces are not average}",
+	volume = "2",
+	year = "1991"
+}
+
+@conference{P.2001,
+	author = "Hanrahan, H.W. Jensen; S.R. Marschner; M. Levoy; P.",
+	booktitle = "{Proceedings of the 28th annual conference on Computer graphics and interactive techniques}",
+	owner = "alou",
+	timestamp = "2012.05.08",
+	title = "{A practical model for subsurface light transport}",
+	year = "2001"
+}
+
+@inproceedings{P.2007,
+	author = "{Ma W.C., Hawkins T., Peers P., Chabert C.F., Weiss M. and Debevec P.}",
+	booktitle = "{Eurographics Symposium on Rendering}",
+	owner = "alou",
+	timestamp = "2012.05.09",
+	title = "{Rapid Acquisition of Specular and Diffuse Normal Maps from Polarized Spherical Gradient Illumination}",
+	year = "2007"
+}
+
+@article{P.J.2000,
+	author = "Fish, A.J. Round; A.W.G. Duller; P.J.",
+	journal = "Skin Research and Technology",
+	owner = "alou",
+	pages = "183--192",
+	timestamp = "2012.05.07",
+	title = "{Lesion classification using skin patterning.}",
+	volume = "6",
+	year = "2000"
+}
+
+@conference{P.J.2002,
+	author = "Fish, Z. She; P.J.",
+	booktitle = "{Proceedings of Medical Image Understanding and Analysis}",
+	owner = "alou",
+	timestamp = "2012.05.07",
+	title = "{Skin lesion differentiation using skin line direction}",
+	year = "2002"
+}
+
+@article{PJ.2003,
+	author = "Fish, Z. She; P.J.",
+	journal = "Skin Research and Technology",
+	owner = "alou",
+	pages = "73--80",
+	timestamp = "2012.05.06",
+	title = "{Analysis of skin line pattern for lesion classification}",
+	volume = "9",
+	year = "2003"
+}
+
+@article{R.2009,
+	author = "{Ding Y., Smith L., Smith M., Sun J. and Warr R.}",
+	journal = "Skin Research and Technology",
+	owner = "alou",
+	pages = "262--270",
+	timestamp = "2012.05.07",
+	title = "{Obtaining malignant melanoma indicators through statistical analysis of 3D skin surface disruptions}",
+	volume = "15",
+	year = "2009"
+}
+
+@article{Chellappa2009,
+	author = "Chellappa, N. Ramanathan ; R.",
+	journal = "Journal of Visual Languages and Computing",
+	owner = "alou",
+	pages = "131--144",
+	timestamp = "2012.05.01",
+	title = "{Age Progression in Human Faces: A Survey}",
+	volume = "20",
+	year = "2009"
+}
+
+@article{Chellappa2006,
+	author = "Chellappa, N. Ramanathan ; R.",
+	journal = "IEEE Conference on Computer Vision and Pattern Recognition",
+	owner = "alou",
+	pages = "387--394",
+	timestamp = "2012.05.01",
+	title = "{Modeling Age Progression in Young Faces}",
+	volume = "1",
+	year = "2006"
+}
+
+@conference{R.2008,
+	author = "Chellappa, N. Ramanathan; R.",
+	booktitle = "{IEEE International Conference on Automatic Face and Gesture Recognition}",
+	owner = "alou",
+	timestamp = "2012.05.08",
+	title = "{Modeling Shape and Textural Variations in Aging Faces}",
+	year = "2008"
+}
+
+@article{R.2011,
+	author = "Hancock, J. Wu; W. Smith; E.R.",
+	journal = "Pattern Recognition",
+	owner = "alou",
+	pages = "2871--2886",
+	timestamp = "2012.05.16",
+	title = "{Gender discriminating models from facial surface normals}",
+	volume = "44",
+	year = "2011"
+}
+
+@conference{R.2009a,
+	author = "Hancock, J. Wu; W. Smith; E.R.",
+	booktitle = "{Image Processing (ICIP), 16th IEEE International Conference}",
+	owner = "alou",
+	timestamp = "2012.05.17",
+	title = "{Extracting gender discriminating features from facial needle-maps}",
+	year = "2009"
+}
+
+@article{R.2010,
+	author = "Warr, Y. Zhou; M. Smith; L. Smith; R.",
+	journal = "Skin Research and Technology",
+	owner = "alou",
+	pages = "77--84",
+	timestamp = "2012.05.07",
+	title = "{Using 3D differential forms to characterize a pigmented lesion in vivo}",
+	volume = "16",
+	year = "2010"
+}
+
+@article{S.2004,
+	author = "{Fletcher T., Lu C., Pizer S.M. and Joshi S.}",
+	journal = "IEEE Transactions Medical Imaging",
+	owner = "alou",
+	pages = "995--1005",
+	timestamp = "2012.05.16",
+	title = "{Principal geodesic analysis for the study of nonlinear statistics of shape.}",
+	volume = "23",
+	year = "2004"
+}
+
+@article{S.W.1993,
+	author = "Gangestad, R. Thornhill; S.W.",
+	journal = "Human Nature",
+	owner = "alou",
+	pages = "237--269",
+	timestamp = "2012.05.04",
+	title = "{Human facial beauty}",
+	volume = "4",
+	year = "1993"
+}
+
+@electronic{Stone,
+	author = "Stone, Dr. Aaron",
+	owner = "alou",
+	timestamp = "2012.05.08",
+	title = "{The aging process of the Face and Techniques of rejuvenation}",
+	url = "http://www.aaronstonemd.com/Facial_Aging_Rejuvenation.shtm"
+}
+
+@conference{T.2006,
+	author = "Funkhouser, A. Golovinskiy; W. Matusik; H. Pfister; S. Rusinkiewicz; T.",
+	booktitle = "{ACM Transactions on Graphics (Proc. SIGGRAPH)}",
+	owner = "alou",
+	timestamp = "2012.05.08",
+	title = "{A Statistical Model for Synthesis of Detailed Facial Geometry}",
+	year = "2006"
+}
+
+@book{T.1992,
+	author = "Limperis, F.E. Nicodemus; J.C. Richmond; J.J. Hsia; I.W. Ginsberg; T.",
+	editor = "Wolff, Lawrence B.",
+	owner = "alou",
+	publisher = "Jones and Bartlett Publishers, Inc. , USA",
+	timestamp = "2012.05.08",
+	title = "{Geometrical considerations and nomenclature for reflectance}",
+	year = "1992"
+}
+
+@conference{T.S.2007,
+	author = "Huang, Y. Fu; Y. Xu; T.S.",
+	booktitle = "{Multimedia and Expo, 2007 IEEE International Conference}",
+	owner = "alou",
+	timestamp = "2012.05.08",
+	title = "{Estimating Human Age by Manifold Analysis of Face Pictures and Regression on Aging Features}",
+	year = "2007"
+}
+
+@conference{T.S.2008,
+	author = "Huang, Y. Shuicheng; L. Ming; T.S.",
+	booktitle = "{Acoustics, Speech and Signal Processing, 2008. ICASSP 2008. IEEE International Conference}",
+	owner = "alou",
+	timestamp = "2012.05.08",
+	title = "{Extracting age information from local spatially flexible patches}",
+	year = "2008"
+}
+
+@conference{V.V.2008,
+	author = "Nabiyev, A. Gunay; V.V.",
+	booktitle = "{Computer and Information Sciences, 2008. ISCIS '08. 23rd International Symposium}",
+	owner = "alou",
+	timestamp = "2012.05.08",
+	title = "{Automatic age classification with LBP}",
+	year = "2008"
+}
+
+@article{VitoriaLoboy1999,
+	author = "Loboy, Y.H. Kwon; N. da Vitoria",
+	journal = "Computer Vision and Image Understanding",
+	month = "April",
+	number = "1",
+	owner = "alou",
+	pages = "1--21",
+	timestamp = "2012.05.01",
+	title = "{Age Classification from Facial Images}",
+	volume = "74",
+	year = "1999"
+}
+
+@phdthesis{W.2008,
+	author = "Ma, W.",
+	owner = "alou",
+	school = "National Taiwan University",
+	timestamp = "2012.05.14",
+	title = "{A Framework for Capture and Synthesis of High Resolution Facial Geometry and Performance}",
+	year = "2008"
+}
+
+@electronic{fsp,
+	owner = "alou",
+	timestamp = "2012.05.17",
+	title = "{Facial Skin Problems. http://dermnetnz.org/site-age-specific/face.html}",
+	url = "http://dermnetnz.org/site-age-specific/face.html"
+}
+
+jabref-meta: selector_publisher:
+
+jabref-meta: selector_author:
+
+jabref-meta: selector_journal:
+
+jabref-meta: selector_keywords:
+
+@inproceedings{B.2012,
+	author = "Ballerini, L. and Fisher, R. B. and Aldridge, B. and Rees, J.",
+	booktitle = "{ISBI}",
+	isbn = "978-1-4577-1858-8",
+	pages = "358--361",
+	publisher = "IEEE",
+	title = "{Non-melanoma skin lesion classification using colour image data in a hierarchical K-NN classifier}",
+	year = "2012"
+}
+
+@article{J.2001,
+	author = "Brochard, J. and others",
+	journal = "Pattern Recognition Letters",
+	pages = "759--768",
+	title = "{Invariant feature extraction for 3D texture analysis using the autocorrelation function}",
+	volume = "22",
+	year = "2001"
+}
+
+@inproceedings{kh.1994,
+	author = "Kondepudy, R. and Healey, G.",
+	journal = "IEEE International Conference Image Processing",
+	pages = "61--65",
+	title = "{Using moment invariants to analyze 3-D color textures }",
+	volume = "2",
+	year = "1994"
+}
+
+@inproceedings{H.1979,
+	author = "Haralick, R.M.",
+	journal = "Proceedings of the IEEE",
+	number = "5",
+	pages = "786--804",
+	title = "{Statistical and structural approaches to texture }",
+	volume = "67",
+	year = "1979"
+}
+
+@inproceedings{DSR.2004,
+	author = "{Kurani A.S and Xu D.H and Furst J. and Raicu D.S.}",
+	booktitle = "{7th IASTED International Conference on Computer Graphics and Imaging}",
+	title = "{Co-occurrence Matrices for Volumetric Data}",
+	year = "2004"
+}
+
+@inproceedings{SLM.2011,
+	author = "{Smith M., Anwar S. and Smith L.}",
+	booktitle = "{Fourth York Doctoral Symposium on Computer Science}",
+	title = "{3D Texture Analysis using Co-occurrence Matrix Feature for Classification}",
+	year = "2011"
+}
+
+@book{TJ.1998,
+	author = "Tuceryan, M. and Jain, A.K.",
+	booktitle = "{The Handbook of Pattern Recognition and Computer Vision}",
+	pages = "207--248",
+	title = "{Texture Analysis }",
+	year = "1998"
+}
+
+@article{JL.2005,
+	author = "Vorburger, J. Song; L. Ma; E. Whitenton; T.",
+	journal = "Key Engineering Materials",
+	pages = "437--440",
+	title = "{2D and 3D Surface Texture Comparisons Using Autocorrelation Functions}",
+	volume = "Measurement Technology and Intelligent Instruments VI",
+	year = "2005"
+}
+
+@article{JH.2008,
+	author = "{Fehr J. and Burkhardt H.}",
+	journal = "19th International Conference on Pattern Recognition",
+	pages = "1--4",
+	title = "{3D rotation invariant local binary patterns}",
+	year = "2008"
+}
+
+@inproceedings{SZ.2010,
+	author = "{Sandbach G., Zafeiriou S. and Pantic M.}",
+	booktitle = "{Proceedings of the British Machine Vision Conference}",
+	title = "{Binary Pattern Analysis for 3D Facial Action Unit Detection}",
+	year = "2012"
+}
+
+@article{SJ.2008,
+	author = "Maitra, S. and Yan, J.",
+	booktitle = "{Applying Multivariate Statistical Models}",
+	journal = "Casualty Actuarial Society Discussion Paper Program",
+	title = "{Principle Component Analysis and Partial Least Squares: Two Dimension Reduction Techniques for Regression}",
+	year = "2008"
+}
+
+@electronic{kripp,
+	title = "{Krippendorff's alpha}",
+	url = "http://en.wikipedia.org/wiki/Krippendorff\'s\_alpha\#cite\_note-0"
+}
+
+@online{eww,
+	author = "Weisstein, Eric W",
+	journal = "MathWorld--A Wolfram Web Resource",
+	title = "{Azimuthal Equidistant Projection}",
+	url = "http://mathworld.wolfram.com/AzimuthalEquidistantProjection.html"
+}
+
+@incollection{SJP.1987,
+	author = "Snyder, J. P.",
+	booktitle = "{Map Projections--A Working Manual.}",
+	journal = "Geological Survey Professional Paper 1395",
+	pages = "191--202",
+	title = "{Azimuthal Equidistant Projection}",
+	year = "1987"
+}
+
+@article{Nb.2005,
+	author = "{Nehab D., Rusinkiewicz S., Davis J. and Ramamoorthi R.}",
+	journal = "ACM Transactions on Graphics (Proc. of ACM SIGGRAPH 2005)",
+	month = aug,
+	number = "3",
+	title = "{Efficiently Combining Positions and Normals for Precise {3D} Geometry}",
+	volume = "24",
+	year = "2005"
+}
+
+@article{SG.2011,
+	author = "{Stratou G., Ghosh A., Debevec P. and Morency L.}",
+	journal = "IEEE International Conference onAutomatic Face \& Gesture Recognition and Workshops",
+	pages = "611--618",
+	title = "{Effect of illumination on automatic expression recognition: A novel 3D relightable facial database }",
+	year = "2011"
+}
+
+@inproceedings{SH.2011,
+	author = "{Shenghuai W. and Fenghua X. and Yurong C. and Tiebang X.}",
+	booktitle = "{International Conference on Electric Information and Control Engineering (ICEICE)}",
+	month = "April",
+	pages = "1811--1815",
+	title = "{The MOTIF evaluation method and its region combination algorithm for surface texture }",
+	year = "2011"
+}
+
+@article{FP.2010,
+	author = "{Furukawa Y. and Ponce J.}",
+	journal = "IEEE Transactions on Pattern Analysis and Machine Intelligence",
+	number = "8",
+	pages = "1362--1376",
+	title = "{Accurate, Dense, and Robust Multiview Stereopsis }",
+	volume = "32",
+	year = "2010"
+}
+
+@article{DALMM.2011,
+	author = "{Digne J. and Audfray N. and Lartigue C. and Mehdi-Souzani C. and Morel J.M.}",
+	journal = "{Image Processing On Line}",
+	title = "{Farman Institute 3D Point Sets - High Precision 3D Data Sets}",
+	volume = "2011",
+	year = "2011"
+}
+
+@article{WH.1990,
+	author = "{Wang L. and He D.C.}",
+	journal = "Pattern Recognition",
+	pages = "905--910",
+	title = "{Texture classification using texture spectrum}",
+	volume = "23",
+	year = "1990"
+}
+
+@article{OPM.2002,
+	author = "{Ojala T. and Pietikainen M. and Maenpaa T.}",
+	journal = "Pattern Analysis and Machine Intelligence, IEEE Transactions",
+	number = "7",
+	pages = "971--987",
+	title = "{Multiresolution Gray-Scale and Rotation Invariant Texture Classification with Local Binary Patterns}",
+	volume = "24",
+	year = "2002"
+}
+
+@inproceedings{PM.2005,
+	author = "{Peyr{\'e} G. and Mallat S.P.}",
+	booktitle = "{ACM SIGGRAPH}",
+	pages = "601--608",
+	title = "{ Surface compression with geometric bandelets}",
+	volume = "24",
+	year = "2005"
+}
+
+@article{New1
+}
+
+}
+
+@phdthesis{aj.1997,
+	author = "{Johnson A.}",
+	school = "The Robotics Institute, Carnegie Mellon University",
+	title = "{Spin-Images: A Representation for 3-D Surface Matching}",
+	year = "1997"
+}
+
+@inproceedings{yz.2009,
+	author = "{Zhong Y.}",
+	booktitle = "{Computer Vision Workshops (ICCV Workshops), 2009 IEEE 12th International Conference on}",
+	pages = "689--696",
+	title = "{Intrinsic shape signatures: A shape descriptor for 3D object recognition}",
+	year = "2009"
+}
+
+@article{chbb.2007,
+	author = "{Chen H. and Bhanu B.}",
+	issue_date = "July, 2007",
+	journal = "Pattern Recogn. Lett.",
+	number = "10",
+	pages = "1252--1262",
+	title = "{3D free-form object recognition in range images using local surface patches}",
+	volume = "28",
+	year = "2007"
+}
+
+@inproceedings{Hoppe.1999,
+	acmid = "319357",
+	address = "Los Alamitos, CA, USA",
+	author = "{Hoppe H.}",
+	booktitle = "{Proceedings of the conference on Visualization '99: celebrating ten years}",
+	isbn = "0-7803-5897-X",
+	keywords = "level of detail; mesh decimation; multiresolution",
+	location = "San Francisco, California, USA",
+	numpages = "8",
+	pages = "59--66",
+	publisher = "IEEE Computer Society Press",
+	series = "{VIS '99}",
+	title = "{New quadric metric for simplifiying meshes with appearance attributes}",
+	url = "http://dl.acm.org/citation.cfm?id=319351.319357",
+	year = "1999"
+}
+
+@article{PTC.2010,
+	author = "{Pietroni N., Tarini M. and Cignoni P.}",
+	journal = "{IEEE Transaction on Visualization and Computer Graphics}",
+	month = "{August}",
+	number = "{4}",
+	pages = "{621--635}",
+	title = "{Almost isometric mesh parameterization through abstract domains}",
+	url = "http://vcg.isti.cnr.it/Publications/2010/PTC10",
+	volume = "16",
+	year = "2010"
+}
+
+@article{GWB.2002,
+	author = "{Guyon I., Weston J., Barnhill S. and Vapnik V.}",
+	journal = "Machine Learning",
+	number = "1-3",
+	pages = "389--422",
+	publisher = "Kluwer Academic Publishers",
+	title = "{Gene Selection for Cancer Classification using Support Vector Machines}",
+	volume = "46",
+	year = "2002"
+}
+
+@inproceedings{Pen.2009,
+	author = "{Xavier P.}",
+	booktitle = "{in Emerging Trends in Visual Computing}",
+	title = "{Statistical Computing on Manifolds: From Riemannian Geometry to Computational Anatomy}"
+}
+
+@article{heken1994,
+	author = "{He Z.J. and Nakayama k.}",
+	journal = "Vision Research",
+	month = "January",
+	number = "2",
+	pages = "151--162",
+	title = "{Perceiving textures: Beyond filtering}",
+	volume = "34",
+	year = "1994"
+}
+
+@article{homaloney2006,
+	author = "{Ho Y.X, Maloney L.T. and Landy M.S.}",
+	journal = "Journal of Vision",
+	pages = "634--648",
+	title = "{How direction of illumination affects visually perceived surface roughness}",
+	volume = "6",
+	year = "2006"
+}
+
+@article{ohyoo2007,
+	author = "{Oh S. and Choe Y.}",
+	journal = "Neurocomput",
+	month = "August",
+	pages = "13--15",
+	title = "{Segmentation of Textures Defined on Flat vs. Layered Surfaces Using Neural Networks: Comparison of 2D vs. 3D Representations}",
+	volume = "70",
+	year = "2007"
+}
+
+@inproceedings{jain1990,
+	author = "{ Jain A.K. and Farrokhnia F. }",
+	booktitle = "{Systems, Man and Cybernetics, 1990. Conference Proceedings., IEEE International Conference on}",
+	pages = "14--19",
+	title = "{Unsupervised texture segmentation using Gabor filters }",
+	year = "1990"
+}
+
+@article{fogel1989,
+	author = "{Fogel I. and Sagi D.}",
+	journal = "Biological Cybernetics",
+	month = "June",
+	number = "2",
+	pages = "103--113",
+	title = "{Gabor filters as texture discriminator}",
+	volume = "61",
+	year = "1989"
+}
+
+@article{Daugman1985,
+	author = "{Daugman J.G.}",
+	journal = "Journal of the Optical Society of America A",
+	month = "Jul",
+	number = "7",
+	pages = "1160--1169",
+	volume = "2",
+	year = "1985"
+}
+
+@article{OMP.1996,
+	author = "{Ojala T. , Pietik{\"a}inen M. and Harwood D.}",
+	journal = "Pattern Recognition",
+	number = "1",
+	pages = "51--59",
+	title = "{A comparative study of texture measures with classification based on featured distributions}",
+	volume = "29",
+	year = "1996"
+}
+
+@article{OJALA.2000,
+	author = "{Pietik{\"a}inen M., Ojala T. and Xu Z.}",
+	journal = "Pattern Recognition",
+	pages = "43--52",
+	title = "{Rotation-invariant texture classification using feature distributions}",
+	volume = "33",
+	year = "2000"
+}
+
+@article{Harwood.1995,
+	author = "{Harwood D., Ojala T., Pietik{\"a}inen M., Kelman S. and Davis L.}",
+	title = "{Texture classification by center-symmetric auto-correlation, using Kullback discrimination of distributions}"
+}
+
+@article{CT.1982,
+	author = "{Cook R.L. and Torrance K.E.}",
+	journal = "ACM Trans. Graph.",
+	month = jan,
+	number = "1",
+	pages = "7--24",
+	title = "{A Reflectance Model for Computer Graphics}",
+	volume = "1",
+	year = "1982"
+}
+
+@article{Dana:1999,
+	address = "New York, NY, USA",
+	author = "{Dana K. J. and van Ginneken B. and Nayar S. K. and Koenderink J. J.}",
+	issue_date = "Jan. 1999",
+	journal = "ACM Trans. Graph.",
+	month = jan,
+	number = "1",
+	pages = "1--34",
+	publisher = "ACM",
+	title = "{Reflectance and Texture of Real-world Surfaces}",
+	volume = "18",
+	year = "1999"
+}
+
